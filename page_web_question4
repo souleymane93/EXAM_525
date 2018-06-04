@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>	
+		<title> ma page web </title>
+		<meta charset ="utf-8"/>
+		<link rel="stylesheet" href="style.css"/>
+	</head>
+	<body>
+	<h1> bienvenue dans ma page pour apprendre css et html</h1>
+	<p><img src="image_monde_web.jpg" alt="le monde vu du web style="width:500px;height:600px;"></p>
+	<p><a href ="https://www.google.fr/search?q=le+web&source=lnms&tbm=isch&sa=X&ved=0ahUKEwje-enhkrrbAhWBuRQKHX0FCqUQ_AUICigB&biw=1242&bih=535#imgrc=1OEaFV4WbLr9WM:"> image du web </a></p>
+	<!-- Ceci est un commentaire : j'ai utilisé google pour chercher une image du web et le terme que j'ai utilisé est "image du web " -->
+	<!-- Ceci est un commentaire : j'ai bien traité la partie 2 en mettant l'image dans un cadre-->
+	<p>cocher ci-dessous la note que vous avez obtenu :<br />
+       <div><input type="radio" name="note" value="0" /> vous avez obtenu la note de  0
+	   </div>
+       <div><input type="radio" name="note" value="1" /> vous avez obtenu la note 1
+	   </div>
+       <div><input type="radio" name="note" value="2" /> vous avez obtenu la note de  2
+	   </div>
+       <div><input type="radio" name="note" value="3" /> vous avez obtenu la note de   3
+	   </div>
+       <div><input type="radio" name="note" value="4" /> vous avez obtenu la note de 4
+	   </div>
+       <div><input type="radio" name="note" value="5" /> vous avez obtenu la note de 5
+	   </div>
+	   <div class="button">
+		      <div> <input type="submit" value="Envoyer" />  </div>
+		      <div> <input type="submit" value="Annuler" />  <div>
+	    </div>
+	</p>
+     <iframe title="La page openclassroom consacrée à mon intérêt pour ce cours du web" src="https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3"></iframe>
+	 <p>si vous utilisez internet explorer comme navigateur , vous verrez un message : nous ne pouvons pas affciher ce contenu dans ce cadre> </p>
+	 <p>ne vous inquiétez pas descendez en bas de cette message et vous verrez un mesage "esayer ouvrir une nouvelle fenêtre "pour voir la page s'afficher en toute intégralité </p>
+	</body>
+		<!-- Ceci est un commentaire : j'ai bien traité la partie 4 en portant sur l'iframe ->
+
+</html>
