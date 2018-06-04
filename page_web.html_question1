@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>	
+		<title> ma page web </title>
+		<meta charset ="utf-8"/>
+		<link rel="stylesheet" href="style.css"/>
+	</head>
+	<body>
+	<p> <h1> bienvenue dans ma page pour apprendre css et html</h1> </p>
+	<p><img src="image_monde_web.jpg" alt="le monde vu du web style="width:500px;height:600px;"></p>
+	<p><a href ="https://www.google.fr/search?q=le+web&source=lnms&tbm=isch&sa=X&ved=0ahUKEwje-enhkrrbAhWBuRQKHX0FCqUQ_AUICigB&biw=1242&bih=535#imgrc=1OEaFV4WbLr9WM:"> image du web </a></p>
+	<!-- Ceci est un commentaire : j'ai utilisé google pour chercher une image du web et le terme que j'ai utilisé est "image du web " -->
+	</body>
+</html>
